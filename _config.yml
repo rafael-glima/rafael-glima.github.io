@@ -1,2 +1,3 @@
-	name: Rafael Lima
-	markdown: kramdown
+name: Rafael Lima
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
