@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8e5df9c2-c0a2-4c70-9c98-e6ecee57c1c6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-06-07-post-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-06-07-post-2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/UPDATEDHawkes_Processes_Modelling_Inference_and_Control.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
