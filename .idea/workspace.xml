@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8e5df9c2-c0a2-4c70-9c98-e6ecee57c1c6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv/[ENG]Academic_CV.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/cv/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +37,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="362" y="231" key="com.intellij.ide.util.TipDialog" timestamp="1591558636686">
+      <screen x="0" y="37" width="1366" height="731" />
+    </state>
+    <state x="362" y="231" key="com.intellij.ide.util.TipDialog/0.37.1366.731@0.37.1366.731" timestamp="1591558636686" />
     <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1591541563601">
       <screen x="0" y="37" width="1366" height="731" />
     </state>
